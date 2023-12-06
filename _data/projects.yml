@@ -1,0 +1,4 @@
+featured:
+- {name: 'Project-X', url: '/projects/#'}
+index:
+- {name: 'Project-Y', url: '/projects/#'}
