@@ -6,17 +6,17 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 me:
-- {name: 'Tiego Tshehla', title: 'Data Scientist', department: 'Data Science', office: 'Some office', office_address: Company Address', phone: '(000) 000-0000', email: 'hello@company.com', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
+- {name: 'Tiego Tshehla', title: 'Data Scientist', department: 'Data Science', office: 'Some office', office_address: Company Address', phone: '(000) 000-0000', email: 'hello@company.com', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
 
 courses:
 - {name: 'Vector Calculus', url: 'vector-calculus'}
 
 social:
 - {icon: 'github', link: 'https://github.com/tiegoct'}
-- {icon: 'github', link: 'https://github.com/tiegot'}
-- {icon: 'twitter', link: 'https://twitter.com/whereistiego'}
-- {icon: 'instagram', link: 'https://instagram.com/tiegoct'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/tiegot'}
+#- {icon: 'github', link: 'https://github.com/tiegot'}
+#- {icon: 'twitter', link: 'https://twitter.com/whereistiego'}
+#- {icon: 'instagram', link: 'https://instagram.com/tiegoct'}
+#- {icon: 'linkedin', link: 'https://linkedin.com/in/tiegot'}
 
 contacts:
-- {name: 'Contact 1', title: 'Lead Person', department: 'A lead's job', office: 'Some office', office_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@company.com', office: 'Data science centre', image: 'assets/img/contact.jpg'}
+- {name: 'Contact 1', title: 'Lead Person', department: 'A lead's job', office: 'Some office', office_address: 'address', phone: '(000) 000-0000', email: 'hello@company.com', image: 'assets/img/contact.jpg'}
