@@ -6,7 +6,7 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 me:
-- {name: 'Tiego Tshehla', title: 'Data Scientist', department: 'Data Science', office: 'Some office', office_address: Company Address', phone: '(000) 000-0000', email: 'hello@company.com', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
+- {name: 'Tiego Tshehla', title: 'Data Scientist', department: 'Data Science', office: 'Some office', company_address: Company Address', phone: '(000) 000-0000', email: 'hello@company.com', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
 
 courses:
 - {name: 'Vector Calculus', url: 'vector-calculus'}
@@ -19,4 +19,4 @@ social:
 #- {icon: 'linkedin', link: 'https://linkedin.com/in/tiegot'}
 
 contacts:
-- {name: 'Contact 1', title: 'Lead Person', department: 'A lead's job', office: 'Some office', office_address: 'address', phone: '(000) 000-0000', email: 'hello@company.com', image: 'assets/img/contact.jpg'}
+- {name: 'Contact 1', title: 'Lead Person', department: 'Data Science', office: 'Some office', company_address: 'address', phone: '(000) 000-0000', email: 'hello@company.com', image: 'assets/img/contact.jpg'}
