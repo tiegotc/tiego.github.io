@@ -1,3 +1,3 @@
 # Tiego Tshehla
 
-### A Jekyll portfolio site for Tiego hacked out from the academia them by LeNPaul
+### A Jekyll portfolio site hacked out from the "academia" theme by LeNPaul.
