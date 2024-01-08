@@ -2,4 +2,4 @@ featured:
 - {name: 'Project-X', url: '/projects/#'}
 index:
 - {name: 'NHiTS for stock price prediction', url: 'https://github.com/tiegotc/nhits/tree/main'}
-- {name: 'Simple ChatGPT x ReactJS websitr', url: 'https://github.com/tiegotc/endgame-site/tree/main'}
+- {name: 'Simple ChatGPT x ReactJS website', url: 'https://github.com/tiegotc/endgame-site/tree/main'}
