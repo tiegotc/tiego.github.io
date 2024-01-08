@@ -1,4 +1,4 @@
 featured:
 - {name: 'Project-X', url: '/projects/#'}
 index:
-- {name: 'NHiTS for stock price prediction', url: '/projects/#'}
+- {name: 'NHiTS for stock price prediction', url: 'https://github.com/tiegotc/nhits/tree/main'}
