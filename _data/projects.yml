@@ -7,3 +7,4 @@ index:
 - {name: 'Customer segmentation on online retail data', url: 'https://github.com/TiegoT/Online-Retail/blob/master/Customer_Segmentation.ipynb'}
 - {name: 'Customer lifetime value on online retail data', url: 'https://github.com/TiegoT/Online-Retail/blob/master/Customer%20Lifetime%20Value.ipynb'}
 - {name: 'Basic Python package development', url: 'https://github.com/TiegoT/EnterAwesomeness/tree/master'}
+- {name: 'Basic Python list item retrieval package', url: 'https://github.com/TiegoT/mypackage/tree/master'}
