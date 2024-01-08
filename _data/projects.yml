@@ -3,3 +3,4 @@ featured:
 index:
 - {name: 'NHiTS for stock price prediction', url: 'https://github.com/tiegotc/nhits/tree/main'}
 - {name: 'Simple ChatGPT x ReactJS website', url: 'https://github.com/tiegotc/endgame-site/tree/main'}
+- {name: 'Exploratory Data Analysis and Prediction on Sample Superstore Data', url: 'https://github.com/TiegoT/Chinese_Superstore_Sample/blob/master/Superstore%20Gross%20Income%20Prediction.ipynb'}
