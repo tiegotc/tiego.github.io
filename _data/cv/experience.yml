@@ -1,15 +1,15 @@
-- title: 'Student Intern | ExploreAI | 2019'
+- title: 'Student Intern | ExploreAI | Jan 2019 - Dec 2019'
   description: 'Building MVPs, data wrangling, implementing machine learning models and visualising everything in a cool way.'
-- title: 'Skills & Stacks'
+- sub_title: 'Skills & Stacks'
 - skills_and_stacks: <ul>
 <li>Used SQL to connect databases and build data driven stories for presentation on the Cape Town water crisis</li>
 <li>Completed projects and created MVPs through the power of supervised and unsupervised learning techniques</li>
 <li>Presented insights, techniques and solutions to academy staff and other student interns</li>
 <li>Completed programming data science aligned courses/certifications (list can be found on my Linkedin)</li>
 </ul>
-- title: 'Data Scientist | 2020 - Current'
+- title: 'Data Scientist | Jan 2020 - Current'
   description: 'Building retail focused solutions using machine learning and consumer data insights'
-- title: 'Skills & Stacks'
+- sub_title: 'Skills & Stacks'
 - skills_and_stacks:<ul>
 <li>Explore, engineer/transform and visualise datasets to fit business requirements and generate insights</li>
 <li>Use high-level programming frameworks/packages such as TensorFlow and Big Query to build machine learning models and solve problems</li>
