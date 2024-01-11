@@ -15,3 +15,6 @@ title: "Courses / Certificates"
 
 [View certificate](https://partner.cloudskillsboost.google/public_profiles/65250ab3-313b-4112-88b6-c6db680c2446/badges/3994469)
 
+
+
+NB: A list MOST of the certificates I have completed can be found on my LinkedIn
