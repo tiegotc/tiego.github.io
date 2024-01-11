@@ -1,1 +1,4 @@
-
+featured:
+- {name: 'Art', url: '/projects/#'}
+index:
+- {name: 'This is not a simulation', url: 'https://www.behance.net/gallery/96556549/Space-Series/modules/557586703'}
