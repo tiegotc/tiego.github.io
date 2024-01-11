@@ -3,6 +3,10 @@ layout: page
 title: "Courses / Certificates"
 ---
 
+#### SQL for Data Science | University of California, Davis | Jun 2018
+
+[View certificate](https://www.coursera.org/account/accomplishments/verify/FNM35LZHJD9D)
+
 #### Deep Learning Specialization | DeepLearning.AI | Sep 2018
 
 [View certificate](https://www.coursera.org/account/accomplishments/specialization/4DQC49EPXMGG)
