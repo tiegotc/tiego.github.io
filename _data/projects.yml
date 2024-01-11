@@ -1,5 +1,5 @@
 featured:
-- {name: 'Project-X', url: '/projects/#'}
+- {name: 'DS Projects', url: 'https://tiegotc.github.io/tiego.github.io/projects'}
 index:
 - {name: 'NHiTS for stock price prediction', url: 'https://github.com/tiegotc/nhits/tree/main'}
 - {name: 'Simple ChatGPT x ReactJS website', url: 'https://github.com/tiegotc/endgame-site/tree/main'}
