@@ -2,13 +2,14 @@ menu:
 - {name: 'Experience', url: '/cv'}
 - {name: 'DS Projects', url: '/projects'}
 - {name: 'Courses', url: '/courses'}
-- {name: 'About', url: '/me'}
+# - {name: 'About', url: '/me'}
+- {name: 'Contact me', url: '/contact'}
 
 me:
 - {name: 'Tiego Tshehla', title: 'Data Scientist', department: 'Data Science', office: 'Some office', company_address: Company Address', phone: '(000) 000-0000', email: 'hello@company.com', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
 
 courses:
-- {name: 'certifications', url: '/certifications'}
+- {name: 'Certifications', url: '/certifications'}
 
 social:
 - {icon: 'github', link: 'https://github.com/tiegoct'}
