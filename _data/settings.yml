@@ -19,4 +19,4 @@ social:
 #- {icon: 'instagram', link: 'https://instagram.com/tiegoct'}
 
 contacts:
-- {name: 'Tiego Tshehla', title: 'Data Scientist', department: 'Data Science/Solutions', office: Rosebank', company_address: 'The Mall offices', phone: 'Too much spam - please use the linkedin link', email: 'https://linkedin.com/in/tiegotshehla', image: 'assets/img/contact.jpg'}
+- {name: 'Tiego Tshehla', title: 'Data Scientist', department: 'Data Science/Solutions', office: 'Rosebank', company_address: 'The Mall offices', phone: 'Too much spam - please use the LinkedIn link', email: 'https://linkedin.com/in/tiegotshehla', image: 'assets/img/contact.jpg'}
